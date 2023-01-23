@@ -1,6 +1,7 @@
- ## Olá! aqui é o Natãn 👋
-
-🌱 Estou estudando HTML, CSS e javaScript
+ ## Olá! Aqui é o Natãn 👋
+ 
+👨‍💻 Estudante de programação <br>
+🌱 Aprendendo sobre HTML, CSS e javaScript
 
 <div>
  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=NatanTeixeiraVieira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
