@@ -1,6 +1,6 @@
  ## Olá! Aqui é o Natãn 👋<br><br>
  
-👨‍💻 Estudante de programação <br>
+👨‍💻 Estudante de Engenharia de Software <br>
 🌱 Aprendendo sobre HTML, CSS, JavaScript e React
 
 <div>
