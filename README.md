@@ -1,7 +1,7 @@
  ## Olá! Aqui é o Natãn 👋<br><br>
  
 👨‍💻 Estudante de Engenharia de Software <br>
-🌱 Aprendendo sobre JavaScript, TypeScript, React, Next.js, ente outros.
+🌱 Estudando NextJs e Spring
 
 <div style="display: inline_block">
  <a href="https://www.linkedin.com/in/natan-teixeira-vieira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -17,6 +17,8 @@
  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">  
- <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">     
+ <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">  
+ <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">  
+ <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">  
 </div>
 
