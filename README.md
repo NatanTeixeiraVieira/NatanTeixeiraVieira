@@ -1,5 +1,5 @@
- ## Olá! Aqui é o Natãn 👋<br><br>
-
+ ## Olá! Aqui é o Natãn 👋<br>
+ Sou desenvolvedor Full Stack Typescript. Atualmente trabalho na <a href="https://nextage.com.br/">NextAge</a> e estou cursando Engenharia de Software. Gosto muito de tecnologia e busco aprender e evoluir cada vez mais.<br><br>
 👨‍💻 Programador Full Stack <br>
 🧑‍🎓 Estudante de Engenharia de Software <br>
 🌱 Foco em NextJS e NestJS
